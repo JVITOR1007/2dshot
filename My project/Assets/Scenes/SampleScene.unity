@@ -151,9 +151,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e83549cc4c7f8b242982680fecf45c1c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  vida: 10
+  vida: 20
   energia: 6
   velocidade: 2
+  arma: {fileID: 0}
 --- !u!58 &36747483
 CircleCollider2D:
   m_ObjectHideFlags: 0
